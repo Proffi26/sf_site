@@ -1,4 +1,4 @@
-
+﻿#command list
 git clone https://github.com/Proffi26/sf_site.git
 git branch Vlad_branch
 git checkout Vlad_branch
