@@ -1,0 +1,10 @@
+﻿#command list
+git clone https://github.com/Proffi26/sf_site.git
+git branch Vlad_branch
+git checkout Vlad_branch
+
+git add .
+git commit -m "добавление файла список команд3.txt"
+git status
+
+git push origin Vlad_branch
