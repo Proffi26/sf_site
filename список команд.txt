@@ -1,0 +1,9 @@
+git init
+git add .
+git commit -m "инициация проекта sf_site"
+git status
+
+git remote add origin https://github.com/Proffi26/sf_site.git
+git push --set-upstream origin master
+git branch Proffi26_branch
+git checkout Proffi26_branch

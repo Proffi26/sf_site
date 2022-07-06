@@ -1,0 +1,6 @@
+#продолжение
+git add .
+git commit -m "добавление файлов список команд.txt и список команд_2.txt"
+git status
+
+git push
